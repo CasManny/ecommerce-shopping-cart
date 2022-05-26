@@ -1,0 +1,22 @@
+.footer__container {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.footer__social-media {
+    display: flex;
+
+}
+
+.footer__social-media__icon {
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    .footer__social-media {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

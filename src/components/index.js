@@ -1,0 +1,6 @@
+export { default as Heropage } from './Heropage/Heropage'
+export { default as Navbar } from './Navbar'
+export { default as StockContainer } from './Stocks/StockContainer'
+export { default as Contact } from './Contact/Contact'
+export { default as NewsLetter } from './NewsLetter/NewsLetter'
+export { default as Footer } from './Footer/Footer'

@@ -1,0 +1,7 @@
+.stock__card {
+    cursor: pointer;
+}
+
+.stock__title {
+    font-weight: 800 !important;
+}
